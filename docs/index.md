@@ -6,7 +6,7 @@ This repo consists of all the codes and dataset of the research paper, **"[Data-
 | --- | Chebyshev Function | Kernel Regression | Polynomial Fitting | Neural Network |     
 |---|---|---|---|---| 
 |---| Description | Description | Description | Description |
-|---|![](results/1/1.png)|---|---|---| 
+|---|![](results/1/1.png)|![](results/2/1.png)|![](results/3/1.png)|![](results/4/1.png)| 
 |---|---|---|---|---| 
 |---|---|---|---|---| 
 |---|---|---|---|---| 
