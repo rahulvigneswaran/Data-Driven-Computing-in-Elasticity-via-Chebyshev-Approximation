@@ -3,7 +3,7 @@ This repo consists of all the codes and dataset of the research paper, **"[Data-
 
 # The following are the graphs of the detailed comparison :
 
-| Algorithm | Chebyshev Function | Kernel Regression | Polynomial Fitting | Neural Network |     
+| --- | Chebyshev Function | Kernel Regression | Polynomial Fitting | Neural Network |     
 |---|---|---|---|---| 
 
 
