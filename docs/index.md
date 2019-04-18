@@ -6,24 +6,23 @@ This repo consists of all the codes and dataset of the research paper, **"[Data-
 | --- | Chebyshev Function | Kernel Regression | Polynomial Fitting | Neural Network |     
 |---|---|---|---|---| 
 |---| Description | Description | Description | Description |
-|---|![](results/1/1.png)|![](results/2/1.png)|![](results/3/1.png)|![](results/4/1.png)| 
-|---|---|---|---|---| 
-|---|---|---|---|---| 
-|---|---|---|---|---| 
-|---|---|---|---|---| 
-|---|---|---|---|---| 
-|---|---|---|---|---| 
-|---|---|---|---|---| 
-|---|---|---|---|---| 
-|---|---|---|---|---| 
-|---|---|---|---|---| 
-|---|---|---|---|---| 
-|---|---|---|---|---| 
-|---|---|---|---|---| 
-|---|---|---|---|---| 
-|---|---|---|---|---| 
-|---|---|---|---|---| 
-|---|---|---|---|---| 
+|---|![](results/a/	1	.png)|![](results/b/	1	.png)|![](results/c/	1	.png)|![](results/d/	1	.png)|
+|---|![](results/a/	2	.png)|![](results/b/	2	.png)|![](results/c/	2	.png)|![](results/d/	2	.png)|
+|---|![](results/a/	3	.png)|![](results/b/	3	.png)|![](results/c/	3	.png)|![](results/d/	3	.png)|
+|---|![](results/a/	4	.png)|![](results/b/	4	.png)|![](results/c/	4	.png)|![](results/d/	4	.png)|
+|---|![](results/a/	5	.png)|![](results/b/	5	.png)|![](results/c/	5	.png)|![](results/d/	5	.png)|
+|---|![](results/a/	6	.png)|![](results/b/	6	.png)|![](results/c/	6	.png)|![](results/d/	6	.png)|
+|---|![](results/a/	7	.png)|![](results/b/	7	.png)|![](results/c/	7	.png)|![](results/d/	7	.png)|
+|---|![](results/a/	8	.png)|![](results/b/	8	.png)|![](results/c/	8	.png)|![](results/d/	8	.png)|
+|---|![](results/a/	9	.png)|![](results/b/	9	.png)|![](results/c/	9	.png)|![](results/d/	9	.png)|
+|---|![](results/a/	10	.png)|![](results/b/	10	.png)|![](results/c/	10	.png)|![](results/d/	10	.png)|
+|---|![](results/a/	11	.png)|![](results/b/	11	.png)|![](results/c/	11	.png)|![](results/d/	11	.png)|
+|---|![](results/a/	12	.png)|![](results/b/	12	.png)|![](results/c/	12	.png)|![](results/d/	12	.png)|
+|---|![](results/a/	13	.png)|![](results/b/	13	.png)|![](results/c/	13	.png)|![](results/d/	13	.png)|
+|---|![](results/a/	14	.png)|![](results/b/	14	.png)|![](results/c/	14	.png)|![](results/d/	14	.png)|
+|---|![](results/a/	15	.png)|![](results/b/	15	.png)|![](results/c/	15	.png)|![](results/d/	15	.png)|
+ 
+
 
 
 
