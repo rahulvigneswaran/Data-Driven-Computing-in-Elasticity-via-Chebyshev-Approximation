@@ -5,7 +5,7 @@ This repo consists of all the codes and dataset of the research paper, **"[Data-
 
 | --- | Chebyshev Function | Kernel Regression | Polynomial Fitting | Neural Network |     
 |:--------|:------------:|:------------:|:------------:|:------------:| 
-|---| Description sadddddddddddddddddasdasdsadddddddddddddd | Description sadddddddddddddddddasdasdsadddddddddddddd | Description sadddddddddddddddddasdasdsadddddddddddddd  | Description sadddddddddddddddddasdasdsadddddddddddddd  |
+|---| Description &nbsp; &nbsp;| Description &nbsp; &nbsp; | Description &nbsp; &nbsp;| Description &nbsp; &nbsp; |
 |Load Multiplier|![](results/a/1.png)|![](results/b/1.png)|![](results/c/1.png)|![](results/d/1.png)|
 |---|![](results/a/2.png)|![](results/b/2.png)|![](results/c/2.png)|![](results/d/2.png)|
 |---|![](results/a/3.png)|![](results/b/3.png)|![](results/c/3.png)|![](results/d/3.png)|
