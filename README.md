@@ -1,7 +1,7 @@
 # Data-Driven Computing in Elasticity via Chebyshev Polynomial [![forthebadge made-with-python 2](https://img.shields.io/badge/Made%20with-MATLAB%20-brightgreen.svg)](https://in.mathworks.com/products/matlab.html?requestedDomain=) [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)]() [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)]() 
 This repo consists of all the codes and dataset of the research paper, **"[Data-driven computing in elasticity via Chebyshev Polynomial](https://ieeexplore.ieee.org/document/8494096)"**.
 
-# THE CODES WILL BE RELEASED AFTER THE PAPER GETS ACCEPTED. STAY TUNDED !!
+# THE CODES WILL BE RELEASED AFTER THE PAPER GETS ACCEPTED. STAY TUNED !!
 
 <!---
 ## Abstract :
