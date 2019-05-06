@@ -1,21 +1,20 @@
 # Data-Driven Computing in Elasticity via Chebyshev Approximation [![forthebadge made-with-python 2](https://img.shields.io/badge/Made%20with-MATLAB%20-brightgreen.svg)](https://in.mathworks.com/products/matlab.html?requestedDomain=) [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)]() [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)]() 
-This repo consists of all the codes and dataset of the research paper, **"[Data-driven computing in elasticity via Chebyshev Approximation](https://ieeexplore.ieee.org/document/8494096)"**.
+This repo consists of all the codes and dataset of the research paper, **"[Data-driven computing in elasticity via Chebyshev Approximation](https://arxiv.org/abs/1904.10434)"**.
 
-# THE CODES WILL BE RELEASED AFTER THE PAPER GETS ACCEPTED. Star this repository and click on watch button in top right to get notified!!
 
-<!---
+
 ## Abstract :
-Intrusion detection system (IDS) has become an essential layer in all the latest ICT system due to an urge towards cyber safety in the day-to-day world. Reasons including uncertainty in ﬁnding the types of attacks and increased the complexity of advanced cyber attacks, IDS calls for the need of integration of Deep Neural Networks (DNNs). In this paper, DNNs have been utilized to predict the attacks on Network Intrusion Detection System (N-IDS). A DNN with 0.1 rate of learning is applied and is run for 1000 number of epochs and KDDCup-’99’ dataset has been used for training and benchmarking the network. For comparison purposes, the training is done on the same dataset with several other classical machine learning algorithms and DNN of layers ranging from 1 to 5. The results were compared and concluded that a DNN of 3 layers has superior performance over all the other classical machine learning algorithms. 
+This paper proposes a data-driven approach for computing elasticity by means of a non-parametric regression approach rather than an optimization approach. The Chebyshev approximation is utilized for tackling the material data-sets non-linearity of the elasticity. Also, additional efforts have been taken to compare the results with several other state-of-the-art methodologies. 
 
 ## Keywords : 
-Intrusion detection, deep neural networks, machine learning, deep learning 
+Data-driven computational mechanics, Modelfree method, Nonparametric method, Chebyshev polynomials, elasticity, Chebyshev approximation, chebfun
+
 
 ## Authors :
-**[Rahul-Vigneswaran K](https://rahulvigneswaran.github.io)**<sup>∗</sup>, [Vinayakumar R](https://scholar.google.co.in/citations?user=oIYw0LQAAAAJ&hl=en&oi=ao)<sup>†</sup>, [Soman KP](https://scholar.google.co.in/citations?user=R_zpXOkAAAAJ&hl=en)<sup>†</sup> and [Prabaharan Poornachandran](https://scholar.google.com/citations?user=e233m6MAAAAJ&hl=en)<sup>‡</sup> 
+**[Rahul-Vigneswaran K](https://rahulvigneswaran.github.io)**<sup>∗</sup>, [Neethu Mohan](https://scholar.google.co.in/citations?user=B6zK9XYAAAAJ&hl=en)<sup>†</sup> and [Soman KP](https://scholar.google.co.in/citations?user=R_zpXOkAAAAJ&hl=en)<sup>†</sup>.
 
 **<sup>∗</sup>Department of Mechanical Engineering, Amrita Vishwa Vidyapeetham, India.** <br/> 
 <sup>†</sup>Center for Computational Engineering and Networking (CEN), Amrita School of Engineering, Coimbatore.<br/> 
-<sup>‡</sup>Center for Cyber Security Systems and Networks, Amrita School of Engineering, Amritapuri Amrita Vishwa Vidyapeetham, India.
 
 ## How to run the code?
 ### For **Classical Machine Learning**
@@ -37,20 +36,25 @@ Intrusion detection, deep neural networks, machine learning, deep learning
 
 
 ## Recommended Citation :
-If you use this repository in your research, cite this paper - "[Evaluating Shallow and Deep Neural Networks for Network Intrusion Detection Systems in Cyber Security](https://ieeexplore.ieee.org/document/8494096)".
+If you use this repository in your research, cite the the following papers :
+
+  1. Rahul-Vigneswaran, K., Mohan, N., & Soman, K.P. (2019). Data-driven Computing in Elasticity via Chebyshev Approximation. CoRR, abs/1904.10434..
+  2. Kanno, Y. (2018). Data-driven computing in elasticity via kernel regression..
+  
+  ### Bibtex Format :
 ```bib
-{
-  @InProceedings{Rahul2018,
-  author       = {Rahul-Vigneswaran, K and Vinayakumar, R and Soman, KP and Poornachandran, Prabaharan},
-  title        = {Evaluating Shallow and Deep Neural Networks for Network Intrusion Detection Systems in Cyber Security},
-  booktitle    = {2018 9th International Conference on Computing, Communication and Networking Technologies (ICCCNT)},
-  year         = {2018},
-  pages        = {1--6},
-  organization = {IEEE},
-  abstract     = {Intrusion detection system (IDS) has become an essential layer in all the latest ICT system due to an urge towards cyber safety in the day-to-day world. Reasons including uncertainty in ﬁnding the types of attacks and increased the complexity of advanced cyber attacks, IDS calls for the need of integration of Deep Neural Networks (DNNs). In this paper, DNNs have been utilized to predict the attacks on Network Intrusion Detection System (N-IDS). A DNN with 0.1 rate of learning is applied and is run for 1000 number of epochs and KDDCup-’99’ dataset has been used for training and benchmarking the network. For comparison purposes, the training is done on the same dataset with several other classical machine learning algorithms and DNN of layers ranging from 1 to 5. The results were compared and concluded that a DNN of 3 layers has superior performance over all the other classical machine learning algorithms.},
-  doi          = {https://doi.org/10.1109/ICCCNT.2018.8494096},
-  keywords     = {Intrusion detection, deep neural networks, machine learning, deep learning},
-  url          = {https://github.com/rahulvigneswaran/Intrusion-Detection-Systems},
+  @article{RahulVigneswaran2019DatadrivenCI,
+  title={Data-driven Computing in Elasticity via Chebyshev Approximation},
+  author={K Rahul-Vigneswaran and Neethu Mohan and K. P. Soman},
+  journal={CoRR},
+  year={2019},
+  volume={abs/1904.10434}
+}
+
+@inproceedings{Kanno2018DatadrivenCI,
+  title={Data-driven computing in elasticity via kernel regression},
+  author={Yoshihiro Kanno},
+  year={2018}
 }
 ```
 -->
