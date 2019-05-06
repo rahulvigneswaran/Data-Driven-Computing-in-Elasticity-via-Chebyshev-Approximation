@@ -16,8 +16,13 @@ Data-driven computational mechanics, Modelfree method, Nonparametric method, Che
 **<sup>∗</sup>Department of Mechanical Engineering, Amrita Vishwa Vidyapeetham, India.** <br/> 
 <sup>†</sup>Center for Computational Engineering and Networking (CEN), Amrita School of Engineering, Coimbatore.<br/> 
 
-## How to run the code?
-### For **Classical Machine Learning**
+## How to use the code?
+1.  Clone this repository
+2.  For **Kernal Regression** : 
+      1.  `cd KernalRegression`
+      2.  Run `cross_valid.m`
+    
+### For running**Kernal Regression**
 * Run `all.py` [[Link]](https://github.com/rahulvigneswaran/Intrusion-Detection-Systems/blob/master/all.py)
 ### For **Deep Neural Network (100 iterations)** 
 * Run `dnn1.py` for 1-hidden layer network and run `dnn1acc.py` for finding it's accuracy. [[Link]](https://github.com/rahulvigneswaran/Intrusion-Detection-Systems/tree/master/dnn)
