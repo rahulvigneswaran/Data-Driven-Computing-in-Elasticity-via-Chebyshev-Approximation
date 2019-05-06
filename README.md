@@ -24,7 +24,7 @@ Data-driven computational mechanics, Modelfree method, Nonparametric method, Che
       3.  Run `truss_analysis.m`.
 3.  For **Chebyshev Approximation** :
       1. Install Chebfun library
-            1. Install from [the official website](http://www.chebfun.org/download/) (or) use the library included in this repository. (Open a issue if you have trouble with this part)
+            1. Install from [the official website](http://www.chebfun.org/download/) (or) use the library included in this repository. (Open an issue if you have trouble with this part)
       2.  Enter the `Chebyshev Approximation` directory.
       3.  Run `truss_analysis.m`.
 4.  For **Polynomial Fitting 8 degree** : 
@@ -62,4 +62,4 @@ If you use this repository in your research, cite the the following papers :
 ## Issue / Want to Contribute ? :
 Open a new issue or do a pull request incase your are facing any difficulty with the code base or you want to contribute to it.
 
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)]()
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/rahulvigneswaran/Data-Driven-Computing-in-Elasticity-via-Chebyshev-Approximation)
