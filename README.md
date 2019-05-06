@@ -43,7 +43,7 @@ If you use this repository in your research, cite the the following papers :
   
   ### Bibtex Format :
 ```bib
-  @article{RahulVigneswaran2019DatadrivenCI,
+@article{RahulVigneswaran2019DatadrivenCI,
   title={Data-driven Computing in Elasticity via Chebyshev Approximation},
   author={K Rahul-Vigneswaran and Neethu Mohan and K. P. Soman},
   journal={CoRR},
