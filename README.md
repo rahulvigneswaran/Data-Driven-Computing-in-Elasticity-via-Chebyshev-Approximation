@@ -19,33 +19,22 @@ Data-driven computational mechanics, Modelfree method, Nonparametric method, Che
 ## How to use the code?
 1.  Clone this repository
 2.  For **Kernal Regression** : 
-      1.  Enter the `Kernal Regression` directory
-      2.  Run `cross_valid.m`
-      3.  Run `truss_analysis.m`
+      1.  Enter the `Kernal Regression` directory.
+      2.  Run `cross_valid.m`.
+      3.  Run `truss_analysis.m`.
 3.  For **Chebyshev Approximation** :
       1. Install Chebfun library
-            1. Install from [the official website](http://www.chebfun.org/download/).
-            (or)
-            In
-      
-    
-### For running**Kernal Regression**
-* Run `all.py` [[Link]](https://github.com/rahulvigneswaran/Intrusion-Detection-Systems/blob/master/all.py)
-### For **Deep Neural Network (100 iterations)** 
-* Run `dnn1.py` for 1-hidden layer network and run `dnn1acc.py` for finding it's accuracy. [[Link]](https://github.com/rahulvigneswaran/Intrusion-Detection-Systems/tree/master/dnn)
-* Run `dnn2.py` for 2-hidden layer network and run `dnn2acc.py` for finding it's accuracy. [[Link]](https://github.com/rahulvigneswaran/Intrusion-Detection-Systems/tree/master/dnn)
-* Run `dnn3.py` for 3-hidden layer network and run `dnn3acc.py` for finding it's accuracy. [[Link]](https://github.com/rahulvigneswaran/Intrusion-Detection-Systems/tree/master/dnn)
-* Run `dnn4.py` for 4-hidden layer network and run `dnn4acc.py` for finding it's accuracy. [[Link]](https://github.com/rahulvigneswaran/Intrusion-Detection-Systems/tree/master/dnn)
-* Run `dnn5.py` for 5-hidden layer network and run `dnn5acc.py` for finding it's accuracy. [[Link]](https://github.com/rahulvigneswaran/Intrusion-Detection-Systems/tree/master/dnn)
-
-### For **Deep Neural Network (1000 iterations)** 
-* Run `dnn1.py` for 1-hidden layer network and run `dnn1acc.py` for finding it's accuracy. [[Link]](https://github.com/rahulvigneswaran/Intrusion-Detection-Systems/tree/master/dnn1000)
-* Run `dnn2.py` for 2-hidden layer network and run `dnn2acc.py` for finding it's accuracy. [[Link]](https://github.com/rahulvigneswaran/Intrusion-Detection-Systems/tree/master/dnn1000)
-* Run `dnn3.py` for 3-hidden layer network and run `dnn3acc.py` for finding it's accuracy. [[Link]](https://github.com/rahulvigneswaran/Intrusion-Detection-Systems/tree/master/dnn1000)
-* Run `dnn4.py` for 4-hidden layer network and run `dnn4acc.py` for finding it's accuracy. [[Link]](https://github.com/rahulvigneswaran/Intrusion-Detection-Systems/tree/master/dnn1000)
-* Run `dnn5.py` for 5-hidden layer network and run `dnn5acc.py` for finding it's accuracy. [[Link]](https://github.com/rahulvigneswaran/Intrusion-Detection-Systems/tree/master/dnn1000)
-
-
+            1. Install from [the official website](http://www.chebfun.org/download/) (or) use the library included in this repository. (Open a issue if you have trouble with this part)
+      2.  Enter the `Chebyshev Approximation` directory.
+      3.  Run `truss_analysis.m`.
+4.  For **Polynomial Fitting 8 degree** : 
+      1.  Enter the `Polynomial Fitting 8 degree` directory.
+      2.  Run `truss_analysis.m`.
+      3.  To change the degree of the polynomial fit, open `truss_analysis.m` and follow the instructions given in the comments.
+5.  For **Single Layered Neural Network** : 
+      1.  Enter the `Single Layered Neural Network` directory.
+      2.  Run `truss_analysis.m`.
+      3.  To change the architecture of the Neural Network, edit the file `NN_5.m` and replace it with your architecture in a similar format as given in it by default.
 
 ## Recommended Citation :
 If you use this repository in your research, cite the the following papers :
