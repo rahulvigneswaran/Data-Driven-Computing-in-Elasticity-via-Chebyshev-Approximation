@@ -19,8 +19,15 @@ Data-driven computational mechanics, Modelfree method, Nonparametric method, Che
 ## How to use the code?
 1.  Clone this repository
 2.  For **Kernal Regression** : 
-      1.  `cd KernalRegression`
+      1.  Enter the `Kernal Regression` directory
       2.  Run `cross_valid.m`
+      3.  Run `truss_analysis.m`
+3.  For **Chebyshev Approximation** :
+      1. Install Chebfun library
+            1. Install from [the official website](http://www.chebfun.org/download/).
+            (or)
+            In
+      
     
 ### For running**Kernal Regression**
 * Run `all.py` [[Link]](https://github.com/rahulvigneswaran/Intrusion-Detection-Systems/blob/master/all.py)
