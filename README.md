@@ -1,5 +1,5 @@
 # Data-Driven Computing in Elasticity via Chebyshev Approximation [![forthebadge made-with-python 2](https://img.shields.io/badge/Made%20with-MATLAB%20-brightgreen.svg)](https://in.mathworks.com/products/matlab.html?requestedDomain=) [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)]() [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)]() 
-This repo consists of all the codes and dataset of the research paper, **"[Data-driven computing in elasticity via Chebyshev Approximation](https://arxiv.org/abs/1904.10434)"**.
+This repo consists of all the codes and dataset of the research paper, **"[Data-driven computing in elasticity via Chebyshev Approximation](https://arxiv.org/abs/1904.10434)"**. Code heavily borrowed from [Yoshiro Kanno's repository](https://github.com/ykanno22/data_driven_kernel_regression)
 
 
 
