@@ -7,7 +7,7 @@ This repo consists of all the codes and dataset of the research paper, **"[Data-
 This paper proposes a data-driven approach for computing elasticity by means of a non-parametric regression approach rather than an optimization approach. The Chebyshev approximation is utilized for tackling the material data-sets non-linearity of the elasticity. Also, additional efforts have been taken to compare the results with several other state-of-the-art methodologies. 
 
 ## Keywords : 
-Data-driven computational mechanics, Modelfree method, Nonparametric method, Chebyshev polynomials, elasticity, Chebyshev approximation, chebfun
+Data-driven computational mechanics, Model free method, Nonparametric method, Chebyshev polynomials, elasticity, Chebyshev approximation, chebfun
 
 
 ## Authors :
