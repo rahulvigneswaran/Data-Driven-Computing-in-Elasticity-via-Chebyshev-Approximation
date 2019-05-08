@@ -7,7 +7,7 @@ This repo consists of all the codes and dataset of the research paper, **"[Data-
 This paper proposes a data-driven approach for computing elasticity by means of a non-parametric regression approach rather than an optimization approach. The Chebyshev approximation is utilized for tackling the material data-sets non-linearity of the elasticity. Also, additional efforts have been taken to compare the results with several other state-of-the-art methodologies. 
 
 ## Keywords : 
-Data-driven computational mechanics, Modelfree method, Nonparametric method, Chebyshev polynomials, elasticity, Chebyshev approximation, chebfun
+Data-driven computational mechanics, Model free method, Nonparametric method, Chebyshev polynomials, elasticity, Chebyshev approximation, chebfun
 
 
 ## Authors :
@@ -17,13 +17,13 @@ Data-driven computational mechanics, Modelfree method, Nonparametric method, Che
 <sup>†</sup>Center for Computational Engineering and Networking (CEN), Amrita School of Engineering, Coimbatore.<br/> 
 
 ## How to use the code?
-1.  Clone this repository
+1.  Clone this repository.
 2.  For **Kernal Regression** : 
       1.  Enter the `Kernal Regression` directory.
       2.  Run `cross_valid.m`.
       3.  Run `truss_analysis.m`.
 3.  For **Chebyshev Approximation** :
-      1. Install Chebfun library
+      1. Install Chebfun library.
             1. Install from [the official website](http://www.chebfun.org/download/) (or) use the library included in this repository. (Open an issue if you have trouble with this part)
       2.  Enter the `Chebyshev Approximation` directory.
       3.  Run `truss_analysis.m`.
@@ -62,4 +62,4 @@ If you use this repository in your research, cite the the following papers :
 ## Issue / Want to Contribute ? :
 Open a new issue or do a pull request incase your are facing any difficulty with the code base or you want to contribute to it.
 
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/rahulvigneswaran/Data-Driven-Computing-in-Elasticity-via-Chebyshev-Approximation)
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/rahulvigneswaran/Data-Driven-Computing-in-Elasticity-via-Chebyshev-Approximation/issues)
